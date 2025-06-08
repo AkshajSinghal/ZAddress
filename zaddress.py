@@ -1,5 +1,3 @@
-#OM SHREE HANUMATE NAMAHA JAI SHREE RAM JAI GANESH JI RAM
-
 #Input: 1600 Amphitheatre Parkway, Mountain View, CA 94043
 
 #Street: 1600 Amphitheatre Parkway
